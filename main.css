@@ -2,8 +2,8 @@
 
 
 body {
-  width: "90em";
-  height: "49.875em";
+  width: 90em;
+  height: 49.875em;
   background-color: #0a0c1b;
   font-size: 16px;
   display: flex;
@@ -19,12 +19,12 @@ body {
 }
 
 .card {
-  background-image: url(images/BG.jpg);
+  background-image: url(images/BG.JPG);
   background-repeat: no-repeat;
   background-position: right;
   display: flex;
-  width: "69.375em";
-  height: "27.875em";
+  width: 69.375em;
+  height: 27.875em;
   border-radius: 0.75%;
   background-color: #1c1938;
   flex-direction: column;
@@ -39,9 +39,9 @@ body {
 }
 .header {
   font-family: inter, sans-serif;
-  font-size: "1.35em";
+  font-size: 1.35em;
   color: hsl(0, 0%, 100%);
-  width: "21.6875em";
+  width: 21.6875em;
 }
  .text {
   font-family: Lexend Deca, sans-serif;
