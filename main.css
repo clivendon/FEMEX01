@@ -16,7 +16,7 @@ body {
 }
 
 .card {
-  background-image: url(images/image-header-desktop.jpg);
+  background-image: url(/images/image-header-desktop.jpg);
   background-repeat: no-repeat;
   background-position: right;
   display: flex;
