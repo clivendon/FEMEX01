@@ -19,7 +19,7 @@ body {
 }
 
 .card {
-  background-image: url(https://clivendon.github.io/FEMEX01/images/bg.jpg;
+  background-image: url(/images/bg.jpg);
   background-repeat: no-repeat;
   background-position: right;
   display: flex;
