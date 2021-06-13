@@ -23,8 +23,8 @@ body {
   background-repeat: no-repeat;
   background-position: right;
   display: flex;
-  width: 69.375em;
-  height: 27.875em;
+  width: "69.375em";
+  height: "27.875em";
   border-radius: 0.75%;
   background-color: #1c1938;
   flex-direction: column;
