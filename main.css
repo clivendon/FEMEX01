@@ -2,8 +2,8 @@
 
 
 body {
-  width: 90em;
-  height: 49.875em;
+  width: "90em";
+  height: "49.875em";
   background-color: #0a0c1b;
   font-size: 16px;
   display: flex;
@@ -39,9 +39,9 @@ body {
 }
 .header {
   font-family: inter, sans-serif;
-  font-size: 1.35em;
+  font-size: "1.35em";
   color: hsl(0, 0%, 100%);
-  width: 21.6875em;
+  width: "21.6875em";
 }
  .text {
   font-family: Lexend Deca, sans-serif;
