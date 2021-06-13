@@ -1,0 +1,79 @@
+body {
+  width: 90em;
+  height: 49.875em;
+  background-color: #0a0c1b;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.container1 {
+  display: flex;
+}
+.card-container {
+  display: flex;
+  padding-left: 60em;
+}
+
+.card {
+  background-image: url(/images/image-header-desktop.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  display: flex;
+  width: 69.375em;
+  height: 27.875em;
+  border-radius: 0.75%;
+  background-color: #1c1938;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 5em;
+}
+.cardtext{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5.125em;
+}
+.header {
+  font-family: inter, sans-serif;
+  font-size: 1.35em;
+  color: hsl(0, 0%, 100%);
+  width: 21.6875em;
+}
+ .text {
+  font-family: Lexend Deca, sans-serif;
+  font-size: 1em;
+  font-weight: 250;
+  color: hsla(0, 0%, 100%, 0.75);
+  width: 24.6875em;
+  padding-top: 0;
+  line-height: 1.60em;
+}
+
+.stat-section{
+  display: flex;
+  
+}
+
+.stats{
+  width: 5.625em;
+  height: 3.125em;
+  padding-right: 3.75em;
+}
+.item1{
+  font-family: inter, sans-serif;
+  font-size: 1.65em;
+  font-weight: 600;
+  color: hsl(0, 0%, 100%);
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+.item2{
+  color: hsla(0, 0%, 100%, 0.6);
+  padding-right: 3.75em;
+  margin-top: .25em;
+}
+.insights{
+  color: #a95ddb;
+}
