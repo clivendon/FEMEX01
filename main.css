@@ -77,3 +77,9 @@ body {
 .insights{
   color: #a95ddb;
 }
+
+.attbox{
+ position: fixed;
+ bottom: 100px;
+ right: 85x;
+}
